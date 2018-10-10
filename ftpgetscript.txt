@@ -4,3 +4,4 @@ batapos
 cd barcode
 get PARTYB.TXT
 quit
+this is the second change
