@@ -1,4 +1,4 @@
-open 172.16.1.32
+open 172.16.1.32 ( this ip is my private, it can be any IP address)
 pos
 batapos
 lcd barcode
