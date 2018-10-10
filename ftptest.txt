@@ -4,3 +4,4 @@ batapos
 lcd barcode
 mget PARTYB.TXT
 quit
+Content change for (git pull command, it will merge with master automatically)
